@@ -23,5 +23,6 @@ DevOps_Project2/
 
 ## Author
 Triveni
-# DevOps_Project2
-DevOps Project 2 - Version Control with Git and GitHub4
+## Status
+
+Project Completed Successfully.
